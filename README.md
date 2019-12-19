@@ -1,2 +1,5 @@
 # hello-world
-Repositorio de ejemplo
+
+Hola mundo,
+
+Este es mi primer commit en GitHub.
